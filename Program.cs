@@ -1,6 +1,6 @@
 namespace WebProject_C_
 {
-    public class Program
+    public class Program 
     {
         public static void Main(string[] args)
         {
